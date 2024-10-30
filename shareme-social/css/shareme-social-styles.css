@@ -1,0 +1,15 @@
+.shareme-social-icons {
+    text-align: center;
+    margin: 10px 0;
+}
+
+.shareme-social-icons a {
+    margin: 0 5px;
+    font-size: 1.5em;
+    text-decoration: none;
+    transition: transform 0.2s ease-in-out;
+}
+
+.shareme-social-icons a:hover {
+    transform: scale(1.1);
+}
